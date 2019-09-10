@@ -8,3 +8,4 @@
 ![image](https://github.com/di-yuan/java-fingergame/blob/master/demo/demo1.png)
 ![image](https://github.com/di-yuan/java-fingergame/blob/master/demo/demo2.png)
 ![image](https://github.com/di-yuan/java-fingergame/blob/master/demo/demo3.png)
+![image](https://github.com/di-yuan/java-fingergame/blob/master/demo/demo4.png)
